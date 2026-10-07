@@ -63,6 +63,13 @@
   </tr>
 </table>
 
+<div align="center" style="margin-top: 15px;">
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1100&color=10B981&center=true&vCenter=true&width=680&lines=%3E+Initializing+QA+test+runners...+%5BOK%5D;%3E+Checking+Cloudflare+Edge+latency...+%5B12ms+-+Optimal%5D;%3E+Running+automated+E2E+Playwright+suites...+%5BPassed%5D;%3E+System+Status%3A+Production+Ready+%E2%9C%94" alt="Terminal Diagnostics Ticker" />
+  </p>
+</div>
+
+
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -151,6 +158,18 @@
 </table>
 
 ---
+
+---
+
+### 🏙️ 3D Contribution City
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/profile-3d-contrib/profile-night-view.svg">
+    <img alt="3D Isometric Contribution City" src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/profile-3d-contrib/profile-night-view.svg" width="100%">
+  </picture>
+</div>
 
 ### 🐍 Contribution Activity
 
