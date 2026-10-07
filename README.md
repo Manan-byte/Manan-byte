@@ -68,6 +68,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1100&color=10B981&center=true&vCenter=true&width=680&lines=%3E+Initializing+QA+test+runners...+%5BOK%5D;%3E+Checking+Cloudflare+Edge+latency...+%5B12ms+-+Optimal%5D;%3E+Running+automated+E2E+Playwright+suites...+%5BPassed%5D;%3E+System+Status%3A+Production+Ready+%E2%9C%94" alt="Terminal Diagnostics Ticker" />
   </p>
 </div>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/3d-workspace.svg" width="100%" alt="3D Cyber Workspace" />
+</div>
 
 
 ---
@@ -192,6 +195,14 @@
   <br />
   <div align="center">
     <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="Night View 3D City" />
+  </div>
+</details>
+
+<details>
+  <summary><b>🍂 View 5: Animated Seasonal 3D City (Dynamic Season Motion)</b></summary>
+  <br />
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="Seasonal Animated 3D City" />
   </div>
 </details>
 
