@@ -161,15 +161,41 @@
 
 ---
 
-### 🏙️ 3D Contribution City
+### 🏙️ 3D Contribution City & Isometric Views
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/profile-3d-contrib/profile-night-view.svg">
-    <img alt="3D Isometric Contribution City" src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/profile-3d-contrib/profile-night-view.svg" width="100%">
-  </picture>
-</div>
+<details open>
+  <summary><b>🌈 View 1: Cyberpunk Night Rainbow City (Vibrant Neon) — [Default]</b></summary>
+  <br />
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Night Rainbow 3D City" />
+  </div>
+</details>
+
+<details>
+  <summary><b>🎬 View 2: 3D Animated Rising Blocks (Dynamic Growth Motion)</b></summary>
+  <br />
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D Rising City" />
+  </div>
+</details>
+
+<details>
+  <summary><b>🧱 View 3: Isometric GitBlock Voxels (Modern 3D Cubes)</b></summary>
+  <br />
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="Isometric GitBlocks" />
+  </div>
+</details>
+
+<details>
+  <summary><b>🌙 View 4: Classic Night View (Dark City Skyline)</b></summary>
+  <br />
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="Night View 3D City" />
+  </div>
+</details>
+
+---
 
 ### 🐍 Contribution Activity
 
