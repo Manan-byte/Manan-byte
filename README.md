@@ -37,33 +37,19 @@
 
 ### ⚡ About Me
 
-- 🔭 **Role**: Quality Assurance Engineer & Fullstack Edge Developer at <a href="https://suiflex.dev/"><strong>Suiflex</strong></a>.
-- 🌐 **Portfolio**: Explore my live projects, CV, and work history at <a href="https://portfolio-abdul-manan.pages.dev/"><strong>portfolio-abdul-manan.pages.dev</strong></a>.
-- 🧪 **Specialties**: End-to-End Test Automation (Playwright, Jest, TestNG), MCP-driven QA tooling, and resilient CI/CD pipelines.
-- 🚀 **Edge & Real-Time**: Edge-native architectures with Cloudflare Workers, D1 SQL, and real-time WebRTC audio/video via LiveKit SFU.
-- 📍 **Based In**: Indonesia
+<div align="center">
+  <a href="https://portfolio-abdul-manan.pages.dev/">
+    <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/about-card.svg" width="100%" alt="About Abdul Manan" />
+  </a>
+</div>
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <p>
-    <a href="https://portfolio-abdul-manan.pages.dev/">
-      <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nodejs,cloudflare,python,docker,git,linux,postman,selenium,vite&theme=dark&perline=7" alt="Skill Icons" />
-    </a>
-  </p>
+  <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/tech-stack.svg" width="100%" alt="Tech Stack & Skills" />
 </div>
-
-<p><strong>🧪 Quality Assurance & Automation</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/TestNG-FF7F00?style=flat-square&logo=testng&logoColor=white" alt="TestNG" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/MCP_Testing-0052CC?style=flat-square" alt="MCP Testing" />
-</p>
 
 ---
 
