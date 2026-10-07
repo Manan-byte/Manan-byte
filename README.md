@@ -26,6 +26,11 @@
       <img src="https://img.shields.io/badge/GitHub-Manan--byte-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
+  <p style="margin-top: 10px;">
+    <a href="mailto:abdmanan513@gmail.com">
+      <img src="https://img.shields.io/badge/Status-🟢_Open_to_Collaborations_&_Roles-0f172a?style=for-the-badge&logoColor=10b981" alt="Available Status" />
+    </a>
+  </p>
 
   <p>
     <em>Passionate about software reliability, automated end-to-end testing, and building ultra-fast edge-native platforms.</em>
@@ -184,6 +189,33 @@
     Connect & Explore: <a href="https://suiflex.dev/"><strong>suiflex.dev</strong></a> &nbsp;|&nbsp; <a href="https://portfolio-abdul-manan.pages.dev/"><strong>portfolio-abdul-manan.pages.dev</strong></a>
   </p>
   <sub><i>“Quality is not an act, it is a habit.”</i></sub>
+</div>
+
+---
+
+### 📬 Let's Connect & Collaborate
+
+<div align="center">
+  <p>
+    <em>Feel free to reach out for Quality Assurance roles, automated testing architectures, or edge computing projects.</em>
+  </p>
+  <p style="margin-top: 15px;">
+    <a href="mailto:abdmanan513@gmail.com">
+      <img src="https://img.shields.io/badge/Email-abdmanan513@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abdul Manan" />
+    </a>
+    &nbsp;
+    <a href="https://portfolio-abdul-manan.pages.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-portfolio--abdul--manan.pages.dev-2563EB?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio Website" />
+    </a>
+    &nbsp;
+    <a href="https://suiflex.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Organization-suiflex.dev-7C3AED?style=for-the-badge" alt="Suiflex Ecosystem" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Manan-byte">
+      <img src="https://img.shields.io/badge/GitHub-Manan--byte-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    </a>
+  </p>
 </div>
 
 <div align="center" style="margin-top: 20px;">
