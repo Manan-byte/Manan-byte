@@ -220,21 +220,19 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📈 Activity
+
+<div align="center">
+  <img src="./assets/cards/activity-graph.svg" width="100%" alt="Manan-byte's GitHub activity graph" />
+</div>
+
+### 📊 GitHub Stats
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/Manan-byte">
-      <img src="https://github-readme-stats.vercel.app/api?username=Manan-byte&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0&hide_rank=true" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Manan-byte">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan-byte&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=e2e8f0&langs_count=6" alt="Top Languages" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/Manan-byte">
-      <img src="https://streak-stats.demolab.com?user=Manan-byte&theme=transparent&hide_border=true&stroke=38bdf8&ring=818cf8&fire=f43f5e&currStreakNum=38bdf8&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
-    </a>
+    <img src="./assets/cards/stats.svg" alt="Manan-byte's GitHub stats" height="175" />
+    &nbsp;&nbsp;
+    <img src="./assets/cards/streak.svg" alt="Manan-byte's GitHub streak" height="175" />
   </p>
 </div>
 
