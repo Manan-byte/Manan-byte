@@ -97,7 +97,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/Manan-byte">
-      <img src="https://github-readme-stats.vercel.app/api?username=Manan-byte&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0&hide_rank=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Manan-byte&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0&hide_rank=true" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Manan-byte">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan-byte&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=e2e8f0&langs_count=6" alt="Top Languages" />
