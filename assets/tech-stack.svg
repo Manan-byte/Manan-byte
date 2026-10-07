@@ -1,16 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 370" width="100%" height="370">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 450" width="100%" height="450">
   <defs>
+    <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b0f19" />
-      <stop offset="100%" stop-color="#111827" />
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="100%" stop-color="#0f172a" />
     </linearGradient>
+
+    <!-- Animated Glowing Border Gradient -->
+    <linearGradient id="borderAnim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#ec4899;#10b981;#38bdf8" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#818cf8">
+        <animate attributeName="stop-color" values="#818cf8;#ec4899;#10b981;#38bdf8;#818cf8" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#ec4899">
+        <animate attributeName="stop-color" values="#ec4899;#10b981;#38bdf8;#818cf8;#ec4899" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Sweeping Laser Scan Gradient -->
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Category Header Gradients -->
     <linearGradient id="neonQa" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#10b981" />
       <stop offset="100%" stop-color="#06b6d4" />
     </linearGradient>
     <linearGradient id="neonFe" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3b82f6" />
-      <stop offset="100%" stop-color="#8b5cf6" />
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#818cf8" />
     </linearGradient>
     <linearGradient id="neonBe" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#f59e0b" />
@@ -23,127 +46,115 @@
   </defs>
 
   <style>
-    .cat-title { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif; font-size: 13.5px; font-weight: 600; }
-    .pill-bg { fill: #1e293b; stroke-width: 1.2; rx: 8; }
+    .cat-title { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 0.8px; }
+    .pill-bg { fill: #1e293b; stroke-width: 1.5; rx: 9; }
     .pill-text { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif; font-size: 12px; font-weight: 500; fill: #f8fafc; text-anchor: middle; }
-    
-    @keyframes floatA {
-      0% { transform: translateY(0px); }
-      50% { transform: translateY(-3.5px); }
-      100% { transform: translateY(0px); }
-    }
-    @keyframes floatB {
-      0% { transform: translateY(0px); }
-      50% { transform: translateY(3.5px); }
-      100% { transform: translateY(0px); }
-    }
-    @keyframes borderGlow {
-      0%, 100% { stroke: #334155; }
-      50% { stroke: #64748b; }
-    }
-
-    .group-a { animation: floatA 3.6s ease-in-out infinite; }
-    .group-b { animation: floatB 4.2s ease-in-out infinite; }
-    .group-c { animation: floatA 4.8s ease-in-out infinite; }
-    .group-d { animation: floatB 3.8s ease-in-out infinite; }
-
     .pill-qa { stroke: #10b981; }
     .pill-fe { stroke: #38bdf8; }
     .pill-be { stroke: #f59e0b; }
     .pill-dev { stroke: #c084fc; }
   </style>
 
-  <!-- Container Box -->
-  <rect x="2" y="2" width="836" height="366" rx="14" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5" />
+  <!-- Container Box with Animated Border -->
+  <rect x="3" y="3" width="834" height="444" rx="16" fill="url(#bgGrad)" stroke="url(#borderAnim)" stroke-width="2" />
 
-  <!-- Category 1: QA & Automation -->
-  <g transform="translate(25, 24)">
+  <!-- Sweeping Laser Scan Light -->
+  <rect x="-100" y="3" width="120" height="444" fill="url(#laserGrad)">
+    <animate attributeName="x" values="-120;840;-120" dur="8s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- ================= Category 1: QA & Automation ================= -->
+  <g transform="translate(30, 36)">
     <text x="0" y="0" class="cat-title" fill="url(#neonQa)">🧪 QUALITY ASSURANCE &amp; AUTOMATION TESTING</text>
+  </g>
+  <g transform="translate(30, 52)">
+    <animateTransform attributeName="transform" type="translate" values="30,52; 30,47; 30,52" dur="3.2s" repeatCount="indefinite" />
     
-    <g class="group-a" transform="translate(0, 12)">
-      <rect x="0" y="0" width="115" height="32" class="pill-bg pill-qa" />
-      <text x="57" y="20" class="pill-text">🎭 Playwright</text>
+    <rect x="0" y="0" width="115" height="34" class="pill-bg pill-qa" />
+    <text x="57" y="21" class="pill-text">🎭 Playwright</text>
 
-      <rect x="125" y="0" width="85" height="32" class="pill-bg pill-qa" />
-      <text x="167" y="20" class="pill-text">🃏 Jest</text>
+    <rect x="125" y="0" width="85" height="34" class="pill-bg pill-qa" />
+    <text x="167" y="21" class="pill-text">🃏 Jest</text>
 
-      <rect x="220" y="0" width="95" height="32" class="pill-bg pill-qa" />
-      <text x="267" y="20" class="pill-text">⚙️ TestNG</text>
+    <rect x="220" y="0" width="95" height="34" class="pill-bg pill-qa" />
+    <text x="267" y="21" class="pill-text">⚙️ TestNG</text>
 
-      <rect x="325" y="0" width="105" height="32" class="pill-bg pill-qa" />
-      <text x="377" y="20" class="pill-text">🌐 Selenium</text>
+    <rect x="325" y="0" width="105" height="34" class="pill-bg pill-qa" />
+    <text x="377" y="21" class="pill-text">🌐 Selenium</text>
 
-      <rect x="440" y="0" width="100" height="32" class="pill-bg pill-qa" />
-      <text x="490" y="20" class="pill-text">🚀 Postman</text>
+    <rect x="440" y="0" width="100" height="34" class="pill-bg pill-qa" />
+    <text x="490" y="21" class="pill-text">🚀 Postman</text>
 
-      <rect x="550" y="0" width="130" height="32" class="pill-bg pill-qa" />
-      <text x="615" y="20" class="pill-text">🔌 MCP Testing</text>
-    </g>
+    <rect x="550" y="0" width="130" height="34" class="pill-bg pill-qa" />
+    <text x="615" y="21" class="pill-text">🔌 MCP Testing</text>
   </g>
 
-  <!-- Category 2: Frontend & UI -->
-  <g transform="translate(25, 112)">
+  <!-- ================= Category 2: Frontend & UI ================= -->
+  <g transform="translate(30, 138)">
     <text x="0" y="0" class="cat-title" fill="url(#neonFe)">🎨 FRONTEND &amp; UI DEVELOPMENT</text>
+  </g>
+  <g transform="translate(30, 154)">
+    <animateTransform attributeName="transform" type="translate" values="30,154; 30,159; 30,154" dur="3.6s" repeatCount="indefinite" />
     
-    <g class="group-b" transform="translate(0, 12)">
-      <rect x="0" y="0" width="115" height="32" class="pill-bg pill-fe" />
-      <text x="57" y="20" class="pill-text">📘 TypeScript</text>
+    <rect x="0" y="0" width="115" height="34" class="pill-bg pill-fe" />
+    <text x="57" y="21" class="pill-text">📘 TypeScript</text>
 
-      <rect x="125" y="0" width="110" height="32" class="pill-bg pill-fe" />
-      <text x="180" y="20" class="pill-text">⚡ JavaScript</text>
+    <rect x="125" y="0" width="110" height="34" class="pill-bg pill-fe" />
+    <text x="180" y="21" class="pill-text">⚡ JavaScript</text>
 
-      <rect x="245" y="0" width="90" height="32" class="pill-bg pill-fe" />
-      <text x="290" y="20" class="pill-text">⚛️ React</text>
+    <rect x="245" y="0" width="90" height="34" class="pill-bg pill-fe" />
+    <text x="290" y="21" class="pill-text">⚛️ React</text>
 
-      <rect x="345" y="0" width="80" height="32" class="pill-bg pill-fe" />
-      <text x="385" y="20" class="pill-text">⚡ Vite</text>
+    <rect x="345" y="0" width="80" height="34" class="pill-bg pill-fe" />
+    <text x="385" y="21" class="pill-text">⚡ Vite</text>
 
-      <rect x="435" y="0" width="125" height="32" class="pill-bg pill-fe" />
-      <text x="497" y="20" class="pill-text">🎨 Tailwind CSS</text>
+    <rect x="435" y="0" width="125" height="34" class="pill-bg pill-fe" />
+    <text x="497" y="21" class="pill-text">🎨 Tailwind CSS</text>
 
-      <rect x="570" y="0" width="110" height="32" class="pill-bg pill-fe" />
-      <text x="625" y="20" class="pill-text">✨ shadcn/ui</text>
-    </g>
+    <rect x="570" y="0" width="110" height="34" class="pill-bg pill-fe" />
+    <text x="625" y="21" class="pill-text">✨ shadcn/ui</text>
   </g>
 
-  <!-- Category 3: Backend & Edge -->
-  <g transform="translate(25, 200)">
+  <!-- ================= Category 3: Backend & Edge ================= -->
+  <g transform="translate(30, 240)">
     <text x="0" y="0" class="cat-title" fill="url(#neonBe)">⚡ BACKEND, CLOUD &amp; EDGE COMPUTING</text>
+  </g>
+  <g transform="translate(30, 256)">
+    <animateTransform attributeName="transform" type="translate" values="30,256; 30,251; 30,256" dur="4.0s" repeatCount="indefinite" />
     
-    <g class="group-c" transform="translate(0, 12)">
-      <rect x="0" y="0" width="170" height="32" class="pill-bg pill-be" />
-      <text x="85" y="20" class="pill-text">☁️ Cloudflare Workers</text>
+    <rect x="0" y="0" width="170" height="34" class="pill-bg pill-be" />
+    <text x="85" y="21" class="pill-text">☁️ Cloudflare Workers</text>
 
-      <rect x="180" y="0" width="140" height="32" class="pill-bg pill-be" />
-      <text x="250" y="20" class="pill-text">🗄️ Cloudflare D1</text>
+    <rect x="180" y="0" width="140" height="34" class="pill-bg pill-be" />
+    <text x="250" y="21" class="pill-text">🗄️ Cloudflare D1</text>
 
-      <rect x="330" y="0" width="100" height="32" class="pill-bg pill-be" />
-      <text x="380" y="20" class="pill-text">🟢 Node.js</text>
+    <rect x="330" y="0" width="100" height="34" class="pill-bg pill-be" />
+    <text x="380" y="21" class="pill-text">🟢 Node.js</text>
 
-      <rect x="440" y="0" width="95" height="32" class="pill-bg pill-be" />
-      <text x="487" y="20" class="pill-text">🐍 Python</text>
+    <rect x="440" y="0" width="95" height="34" class="pill-bg pill-be" />
+    <text x="487" y="21" class="pill-text">🐍 Python</text>
 
-      <rect x="545" y="0" width="155" height="32" class="pill-bg pill-be" />
-      <text x="622" y="20" class="pill-text">📹 WebRTC / LiveKit</text>
-    </g>
+    <rect x="545" y="0" width="155" height="34" class="pill-bg pill-be" />
+    <text x="622" y="21" class="pill-text">📹 WebRTC / LiveKit</text>
   </g>
 
-  <!-- Category 4: DevOps & Tools -->
-  <g transform="translate(25, 288)">
+  <!-- ================= Category 4: DevOps & Infrastructure ================= -->
+  <g transform="translate(30, 342)">
     <text x="0" y="0" class="cat-title" fill="url(#neonDev)">⚙️ DEVOPS, PLATFORMS &amp; INFRASTRUCTURE</text>
+  </g>
+  <g transform="translate(30, 358)">
+    <animateTransform attributeName="transform" type="translate" values="30,358; 30,363; 30,358" dur="3.4s" repeatCount="indefinite" />
     
-    <g class="group-d" transform="translate(0, 12)">
-      <rect x="0" y="0" width="75" height="32" class="pill-bg pill-dev" />
-      <text x="37" y="20" class="pill-text">🐙 Git</text>
+    <rect x="0" y="0" width="75" height="34" class="pill-bg pill-dev" />
+    <text x="37" y="21" class="pill-text">🐙 Git</text>
 
-      <rect x="85" y="0" width="145" height="32" class="pill-bg pill-dev" />
-      <text x="157" y="20" class="pill-text">🤖 GitHub Actions</text>
+    <rect x="85" y="0" width="145" height="34" class="pill-bg pill-dev" />
+    <text x="157" y="21" class="pill-text">🤖 GitHub Actions</text>
 
-      <rect x="240" y="0" width="95" height="32" class="pill-bg pill-dev" />
-      <text x="287" y="20" class="pill-text">🐳 Docker</text>
+    <rect x="240" y="0" width="95" height="34" class="pill-bg pill-dev" />
+    <text x="287" y="21" class="pill-text">🐳 Docker</text>
 
-      <rect x="345" y="0" width="85" height="32" class="pill-bg pill-dev" />
-      <text x="387" y="20" class="pill-text">🐧 Linux</text>
-    </g>
+    <rect x="345" y="0" width="85" height="34" class="pill-bg pill-dev" />
+    <text x="387" y="21" class="pill-text">🐧 Linux</text>
   </g>
 </svg>
