@@ -53,7 +53,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Developer Coding Animation" />
+      <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/coder.gif" width="230" alt="Developer Coding Animation" />
     </td>
   </tr>
 </table>
