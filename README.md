@@ -156,6 +156,37 @@
 
 ---
 
+
+---
+
+### 🏆 GitHub Achievements & Lencana Resmi
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="130">
+        <a href="https://github.com/Manan-byte?tab=achievements">
+          <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" height="90" alt="Pull Shark" /><br />
+          <b>Pull Shark</b>
+        </a>
+      </td>
+      <td align="center" width="130">
+        <a href="https://github.com/Manan-byte?tab=achievements">
+          <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" height="90" alt="Quickdraw" /><br />
+          <b>Quickdraw</b>
+        </a>
+      </td>
+      <td align="center" width="130">
+        <a href="https://github.com/Manan-byte?tab=achievements">
+          <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" height="90" alt="YOLO" /><br />
+          <b>YOLO</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <p><sub><em>Pencapaian resmi yang telah berhasil dibuka di akun GitHub @Manan-byte</em></sub></p>
+</div>
+
 <div align="center">
   <p>
     Kunjungi juga: <a href="https://suiflex.dev/"><strong>suiflex.dev</strong></a> &nbsp;|&nbsp; <a href="https://portfolio-abdul-manan.pages.dev/"><strong>portfolio-abdul-manan.pages.dev</strong></a>
