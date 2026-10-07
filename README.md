@@ -1,12 +1,19 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30,35&height=180&section=header&text=Abdul%20Manan&fontSize=42&fontAlignY=38&desc=QA%20Engineer%20%7C%20Fullstack%20Edge%20Developer&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Wave Banner" />
+</div>
 
-  <h1>Hi there, I'm Abdul Manan 👋</h1>
+<div align="center">
+
+  <h1>
+    Hi there, I'm Abdul Manan
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34" height="34" alt="Waving Hand" />
+  </h1>
 
   <a href="https://portfolio-abdul-manan.pages.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=QA+Engineer+%26+Automation+Specialist;Fullstack+Edge+Developer;Co-Founder+%40suiflex;Cloudflare+Workers+%26+LiveKit+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=540&lines=QA+Engineer+%26+Automation+Specialist;Fullstack+Edge+Developer;Co-Founder+%40suiflex;Cloudflare+Workers+%26+LiveKit+Architect" alt="Typing SVG" />
   </a>
 
-  <p>
+  <p style="margin-top: 15px;">
     <a href="https://portfolio-abdul-manan.pages.dev/">
       <img src="https://img.shields.io/badge/🌐_Portfolio-portfolio--abdul--manan.pages.dev-2563EB?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio" />
     </a>
@@ -40,6 +47,14 @@
 
 ### 🛠️ Tech Stack & Skills
 
+<div align="center">
+  <p>
+    <a href="https://portfolio-abdul-manan.pages.dev/">
+      <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nodejs,cloudflare,python,docker,git,linux,postman,selenium,vite&theme=dark&perline=7" alt="Skill Icons" />
+    </a>
+  </p>
+</div>
+
 <p><strong>🧪 Quality Assurance & Automation</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
@@ -48,33 +63,6 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/MCP_Testing-0052CC?style=flat-square" alt="MCP Testing" />
-</p>
-
-<p><strong>🎨 Frontend & UI Development</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-</p>
-
-<p><strong>⚡ Backend, Cloud & Edge Computing</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
-  <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare D1" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/WebRTC_%2F_LiveKit-00BFFF?style=flat-square" alt="WebRTC / LiveKit" />
-</p>
-
-<p><strong>⚙️ DevOps, Tools & CI/CD</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
@@ -89,6 +77,18 @@
 | **🤖 bot-suiflex** | 24/7 Discord cloud bot featuring Auto-Role, Moderation, Audit Logging, and a high-fidelity Diva Audio Engine. | [Repository & Guide →](https://github.com/Manan-byte/bot-suiflex) |
 | **⚡ Tangguh EV** | Modern digital portal and landing page for electric trail motorcycles and EV conversion in Indonesia. | [Repository →](https://github.com/Manan-byte/Tangguh_01) |
 | **💍 Digital Invitation** | Responsive digital wedding invitation platform featuring countdown timers, venue mapping, and live RSVP. | [Live Preview →](https://irma-manan.netlify.app/) |
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manan-byte/Manan-byte/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manan-byte/Manan-byte/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Grid Snake" src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
 
 ---
 
@@ -117,4 +117,8 @@
     Connect & Explore: <a href="https://suiflex.dev/"><strong>suiflex.dev</strong></a> &nbsp;|&nbsp; <a href="https://portfolio-abdul-manan.pages.dev/"><strong>portfolio-abdul-manan.pages.dev</strong></a>
   </p>
   <sub><i>“Quality is not an act, it is a habit.”</i></sub>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30,35&height=100&section=footer" width="100%" alt="Footer Wave Banner" />
 </div>
