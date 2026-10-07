@@ -41,7 +41,7 @@
   <tr>
     <td width="65%" valign="top">
       <p>
-        👋 I'm <b>Abdul Manan</b>, a Quality Assurance Engineer &amp; Fullstack Edge Developer from Indonesia with a keen focus on automated verification, high-reliability software, and edge computing.
+        👋 I'm <b>Abdul Manan</b>, a Quality Assurance Engineer &amp; Fullstack Edge Developer from Indonesia with a strong focus on automated verification, deterministic testing systems, and high-performance edge architectures.
       </p>
       <ul>
         <li>🔭 <b>Current Role:</b> QA Engineer &amp; Fullstack Edge Developer</li>
@@ -53,7 +53,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/coder.gif" width="230" alt="Developer Coding Animation" />
+      <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/coder.gif" width="260" alt="Developer Coding Animation" />
     </td>
   </tr>
 </table>
@@ -63,31 +63,17 @@
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
+  <!-- Animated Continuous Moving Marquee Track -->
   <p>
-    <b>🧪 Quality Assurance &amp; Automation Testing</b><br />
     <a href="https://portfolio-abdul-manan.pages.dev/">
-      <img src="https://skillicons.dev/icons?i=playwright,jest,selenium,postman&theme=dark" alt="QA and Testing" />
+      <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/tech-marquee.svg" width="100%" alt="Animated Skills Marquee" />
     </a>
   </p>
 
-  <p>
-    <b>🎨 Frontend &amp; UI Development</b><br />
+  <!-- Symmetrical 2-Row Balanced Icon Grid (8 per row) -->
+  <p style="margin-top: 15px;">
     <a href="https://portfolio-abdul-manan.pages.dev/">
-      <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind&theme=dark" alt="Frontend Development" />
-    </a>
-  </p>
-
-  <p>
-    <b>⚡ Backend, Cloud &amp; Edge Computing</b><br />
-    <a href="https://portfolio-abdul-manan.pages.dev/">
-      <img src="https://skillicons.dev/icons?i=cloudflare,nodejs,python&theme=dark" alt="Backend & Edge" />
-    </a>
-  </p>
-
-  <p>
-    <b>⚙️ DevOps, Platforms &amp; Infrastructure</b><br />
-    <a href="https://portfolio-abdul-manan.pages.dev/">
-      <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux&theme=dark" alt="DevOps & Platforms" />
+      <img src="https://skillicons.dev/icons?i=playwright,jest,selenium,postman,ts,js,react,vite,tailwind,cloudflare,nodejs,python,git,githubactions,docker,linux&theme=dark&perline=8" alt="Tech Stack Grid" />
     </a>
   </p>
 </div>
@@ -96,14 +82,61 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description & Core Highlights | Direct Links |
-|---|---|---|
-| **🌐 Portfolio Website** | Interactive personal portfolio built with React, Cloudflare Pages Functions, and Cloudflare D1. | [Live Site →](https://portfolio-abdul-manan.pages.dev/) |
-| **🧪 Suitest Platform** | Self-hostable, MCP-native automated testing platform with deterministic workflows and AI verification. | [suiflex.dev →](https://suitest.suiflex.dev/) • [Repository](https://github.com/Manan-byte/suitest) |
-| **📹 Meeting-Huddle** | Next-generation browser-based video meeting platform powered 100% on Cloudflare Edge with LiveKit SFU. | [Live Demo →](https://huddle.abdmanan513.workers.dev) • [Repository](https://github.com/Manan-byte/Meeting-Huddle) |
-| **🤖 bot-suiflex** | 24/7 Discord cloud bot featuring Auto-Role, Moderation, Audit Logging, and a high-fidelity Diva Audio Engine. | [Repository & Guide →](https://github.com/Manan-byte/bot-suiflex) |
-| **⚡ Tangguh EV** | Modern digital portal and landing page for electric trail motorcycles and EV conversion in Indonesia. | [Repository →](https://github.com/Manan-byte/Tangguh_01) |
-| **💍 Digital Invitation** | Responsive digital wedding invitation platform featuring countdown timers, venue mapping, and live RSVP. | [Live Preview →](https://irma-manan.netlify.app/) |
+<div align="center">
+  <!-- Animated Projects Spotlight Ticker -->
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&lines=Featured%3A+Suitest+%E2%80%94+MCP-Native+Testing+Platform;Featured%3A+Meeting-Huddle+%E2%80%94+100%25+Cloudflare+Edge+LiveKit+SFU;Featured%3A+bot-suiflex+%E2%80%94+24%2F7+Discord+Architect+%26+Music+Engine;Featured%3A+Tangguh+EV+%E2%80%94+Electric+Motorcycle+Portal;Featured%3A+Portfolio+%E2%80%94+portfolio-abdul-manan.pages.dev" alt="Project Spotlight Ticker" />
+  </p>
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Status &amp; Stack</th>
+      <th>Key Highlights</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🌐 Portfolio Website</b></td>
+      <td><code>🟢 Production</code><br />React • Cloudflare D1</td>
+      <td>Interactive single-page portfolio with live case studies and CV integration.</td>
+      <td><a href="https://portfolio-abdul-manan.pages.dev/"><b>Live Site →</b></a></td>
+    </tr>
+    <tr>
+      <td><b>🧪 Suitest Platform</b></td>
+      <td><code>🟢 Production</code><br />Python • MCP Testing</td>
+      <td>Self-hostable, MCP-native automated testing platform with deterministic workflows.</td>
+      <td><a href="https://suitest.suiflex.dev/"><b>suiflex.dev →</b></a><br /><a href="https://github.com/Manan-byte/suitest">Repo</a></td>
+    </tr>
+    <tr>
+      <td><b>📹 Meeting-Huddle</b></td>
+      <td><code>⚡ Edge Native</code><br />LiveKit SFU • Workers</td>
+      <td>Next-gen browser-based video meeting platform running 100% on Cloudflare Edge.</td>
+      <td><a href="https://huddle.abdmanan513.workers.dev"><b>Live Demo →</b></a><br /><a href="https://github.com/Manan-byte/Meeting-Huddle">Repo</a></td>
+    </tr>
+    <tr>
+      <td><b>🤖 bot-suiflex</b></td>
+      <td><code>🤖 Cloud 24/7</code><br />Node.js • discord.js</td>
+      <td>24/7 Discord cloud bot with auto-roles, moderation, and high-fidelity Diva Audio Engine.</td>
+      <td><a href="https://github.com/Manan-byte/bot-suiflex"><b>Repo &amp; Guide →</b></a></td>
+    </tr>
+    <tr>
+      <td><b>⚡ Tangguh EV</b></td>
+      <td><code>🚀 Live Portal</code><br />React • Tailwind</td>
+      <td>Digital portal and landing page for electric trail motorcycles and EV conversion.</td>
+      <td><a href="https://github.com/Manan-byte/Tangguh_01"><b>Repository →</b></a></td>
+    </tr>
+    <tr>
+      <td><b>💍 Digital Invitation</b></td>
+      <td><code>✨ Interactive</code><br />Vite • Tailwind CSS</td>
+      <td>Responsive wedding invitation with countdown timer, venue navigation, and live RSVP.</td>
+      <td><a href="https://irma-manan.netlify.app/"><b>Live Preview →</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
