@@ -63,17 +63,24 @@
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <!-- Animated Continuous Moving Marquee Track -->
+  <!-- Dynamic Animated Skills Ticker -->
   <p>
-    <a href="https://portfolio-abdul-manan.pages.dev/">
-      <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/tech-marquee.svg" width="100%" alt="Animated Skills Marquee" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1100&color=38BDF8&center=true&vCenter=true&width=680&lines=QA+%26+Automation%3A+Playwright+%E2%80%A2+Cypress+%E2%80%A2+Jest+%E2%80%A2+Selenium+%E2%80%A2+Postman;Frontend+%26+UI%3A+TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+%E2%80%A2+Vite;Backend+%26+Edge%3A+Cloudflare+Workers+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+Express;DevOps+%26+Tools%3A+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+Linux+%E2%80%A2+Git+%E2%80%A2+Bun" alt="Skills Typing Ticker" />
   </p>
 
-  <!-- Symmetrical 2-Row Balanced Icon Grid (8 per row) -->
-  <p style="margin-top: 15px;">
+  <!-- Core QA & Testing Badges -->
+  <p style="margin-top: 10px;">
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </p>
+
+  <!-- Perfectly Symmetrical 20-Icon Grid (10 per row) -->
+  <p style="margin-top: 10px;">
     <a href="https://portfolio-abdul-manan.pages.dev/">
-      <img src="https://skillicons.dev/icons?i=playwright,jest,selenium,postman,ts,js,react,vite,tailwind,cloudflare,nodejs,python,git,githubactions,docker,linux&theme=dark&perline=8" alt="Tech Stack Grid" />
+      <img src="https://skillicons.dev/icons?i=jest,selenium,postman,cypress,ts,js,react,nextjs,vite,tailwind,cloudflare,nodejs,python,express,bun,git,github,githubactions,docker,linux&theme=dark&perline=10" alt="Full Tech Stack Grid" />
     </a>
   </p>
 </div>
