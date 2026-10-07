@@ -10,7 +10,7 @@
   </h1>
 
   <a href="https://portfolio-abdul-manan.pages.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=540&lines=QA+Engineer+%26+Automation+Specialist;Fullstack+Edge+Developer;Co-Founder+%40suiflex;Cloudflare+Workers+%26+LiveKit+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=QA+Engineer+%26+Automation+Specialist;Fullstack+Edge+Developer;Contributor+%40suiflex;Cloudflare+Workers+%26+LiveKit+Architect" alt="Typing SVG" />
   </a>
 
   <p style="margin-top: 15px;">
@@ -37,18 +37,59 @@
 
 ### ⚡ About Me
 
-<div align="center">
-  <a href="https://portfolio-abdul-manan.pages.dev/">
-    <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/about-card.svg?v=2" width="100%" alt="About Abdul Manan" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>
+        👋 I'm <b>Abdul Manan</b>, a Quality Assurance Engineer &amp; Fullstack Edge Developer from Indonesia with a keen focus on automated verification, high-reliability software, and edge computing.
+      </p>
+      <ul>
+        <li>🔭 <b>Current Role:</b> QA Engineer &amp; Fullstack Edge Developer</li>
+        <li>⚡ <b>Open Source:</b> Contributor at <a href="https://suiflex.dev/"><b>Suiflex</b></a></li>
+        <li>🌐 <b>Portfolio:</b> <a href="https://portfolio-abdul-manan.pages.dev/"><b>portfolio-abdul-manan.pages.dev</b></a></li>
+        <li>🧪 <b>Specialties:</b> End-to-End Test Automation (Playwright, Jest, TestNG), MCP QA Tooling &amp; CI/CD</li>
+        <li>🚀 <b>Edge &amp; Real-Time:</b> Cloudflare Workers, Cloudflare D1 SQL &amp; LiveKit SFU (WebRTC)</li>
+        <li>📍 <b>Location:</b> Indonesia 🇮🇩</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Developer Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/tech-stack.svg?v=2" width="100%" alt="Tech Stack & Skills" />
+  <p>
+    <b>🧪 Quality Assurance &amp; Automation Testing</b><br />
+    <a href="https://portfolio-abdul-manan.pages.dev/">
+      <img src="https://skillicons.dev/icons?i=playwright,jest,selenium,postman&theme=dark" alt="QA and Testing" />
+    </a>
+  </p>
+
+  <p>
+    <b>🎨 Frontend &amp; UI Development</b><br />
+    <a href="https://portfolio-abdul-manan.pages.dev/">
+      <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind&theme=dark" alt="Frontend Development" />
+    </a>
+  </p>
+
+  <p>
+    <b>⚡ Backend, Cloud &amp; Edge Computing</b><br />
+    <a href="https://portfolio-abdul-manan.pages.dev/">
+      <img src="https://skillicons.dev/icons?i=cloudflare,nodejs,python&theme=dark" alt="Backend & Edge" />
+    </a>
+  </p>
+
+  <p>
+    <b>⚙️ DevOps, Platforms &amp; Infrastructure</b><br />
+    <a href="https://portfolio-abdul-manan.pages.dev/">
+      <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux&theme=dark" alt="DevOps & Platforms" />
+    </a>
+  </p>
 </div>
 
 ---
