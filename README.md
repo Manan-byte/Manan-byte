@@ -1,7 +1,10 @@
 <div align="center">
 
-  <h1>👋 Halo, Saya Abdul Manan</h1>
-  <h3>Quality Assurance Engineer & Fullstack Edge Developer</h3>
+  <h1>Hi there, I'm Abdul Manan 👋</h1>
+
+  <a href="https://portfolio-abdul-manan.pages.dev/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=QA+Engineer+%26+Automation+Specialist;Fullstack+Edge+Developer;Co-Founder+%40suiflex;Cloudflare+Workers+%26+LiveKit+Architect" alt="Typing SVG" />
+  </a>
 
   <p>
     <a href="https://portfolio-abdul-manan.pages.dev/">
@@ -17,41 +20,34 @@
     </a>
   </p>
 
-  <p align="center">
-    <em>Spesialis Software Quality Assurance, Automated Testing & Pengembang Aplikasi Berbasis Cloudflare Edge.</em><br />
-    Fokus membangun sistem yang andal, cepat, deterministik, dan teruji menyeluruh end-to-end.
-  </p>
-
-  <p align="center">
-    <a href="https://portfolio-abdul-manan.pages.dev/"><strong>Lihat Portofolio Lengkap →</strong></a>
-    &nbsp;•&nbsp;
-    <a href="https://suiflex.dev/"><strong>Jelajahi Suiflex Ecosystem →</strong></a>
+  <p>
+    <em>Passionate about software reliability, automated end-to-end testing, and building ultra-fast edge-native platforms.</em>
   </p>
 
 </div>
 
 ---
 
-### 🚀 Tentang Saya
+### ⚡ About Me
 
-- 🔭 **Peran & Fokus**: Quality Assurance Engineer & Fullstack Edge Developer di <a href="https://suiflex.dev/"><strong>Suiflex</strong></a>.
-- 💼 **Website Portofolio**: Kunjungi <a href="https://portfolio-abdul-manan.pages.dev/"><strong>portfolio-abdul-manan.pages.dev</strong></a> untuk ringkasan CV, pengalaman, dan project live.
-- ⚡ **Keahlian Utama**: End-to-End Test Automation (Playwright, Jest, TestNG), MCP-driven QA tooling, arsitektur Cloudflare Workers/D1, dan komunikasi real-time WebRTC/LiveKit.
-- 🛠️ **Fokus Saat Ini**: Membangun platform pengujian otomatis mandiri (Self-hostable QA platforms) dan sistem edge-first berkinerja tinggi.
-- 📍 **Lokasi**: Indonesia
+- 🔭 **Role**: Quality Assurance Engineer & Fullstack Edge Developer at <a href="https://suiflex.dev/"><strong>Suiflex</strong></a>.
+- 🌐 **Portfolio**: Explore my live projects, CV, and work history at <a href="https://portfolio-abdul-manan.pages.dev/"><strong>portfolio-abdul-manan.pages.dev</strong></a>.
+- 🧪 **Specialties**: End-to-End Test Automation (Playwright, Jest, TestNG), MCP-driven QA tooling, and resilient CI/CD pipelines.
+- 🚀 **Edge & Real-Time**: Edge-native architectures with Cloudflare Workers, D1 SQL, and real-time WebRTC audio/video via LiveKit SFU.
+- 📍 **Based In**: Indonesia
 
 ---
 
-### 💻 Tech Stack & Peralatan
+### 🛠️ Tech Stack & Skills
 
-<p><strong>🧪 Quality Assurance & Automation Testing</strong></p>
+<p><strong>🧪 Quality Assurance & Automation</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/TestNG-FF7F00?style=flat-square&logo=testng&logoColor=white" alt="TestNG" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/MCP_Testing-0052CC?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/MCP_Testing-0052CC?style=flat-square" alt="MCP Testing" />
 </p>
 
 <p><strong>🎨 Frontend & UI Development</strong></p>
@@ -64,7 +60,7 @@
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 </p>
 
-<p><strong>⚡ Backend, Edge & Cloud</strong></p>
+<p><strong>⚡ Backend, Cloud & Edge Computing</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
   <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare D1" />
@@ -73,7 +69,7 @@
   <img src="https://img.shields.io/badge/WebRTC_%2F_LiveKit-00BFFF?style=flat-square" alt="WebRTC / LiveKit" />
 </p>
 
-<p><strong>🛠️ DevOps, Tools & Infrastructure</strong></p>
+<p><strong>⚙️ DevOps, Tools & CI/CD</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
@@ -83,113 +79,65 @@
 
 ---
 
-### 🌟 Project Pilihan (Featured Projects)
+### 🌟 Featured Projects
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Deskripsi & Sorotan Teknologi</th>
-      <th>Link / Demo</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🌐 Portfolio Website</b></td>
-      <td>Portofolio resmi interaktif dibangun dengan React, Cloudflare Pages Functions, dan D1 Database.</td>
-      <td><a href="https://portfolio-abdul-manan.pages.dev/"><b>Buka Website →</b></a></td>
-    </tr>
-    <tr>
-      <td><b>🧪 Suitest Platform</b></td>
-      <td>Self-hostable, MCP-native testing platform untuk pengujian deterministik dan otomasi QA di ekosistem Suiflex.</td>
-      <td><a href="https://suitest.suiflex.dev/"><b>suiflex.dev →</b></a> | <a href="https://github.com/Manan-byte/suitest">Repo</a></td>
-    </tr>
-    <tr>
-      <td><b>📹 Meeting-Huddle</b></td>
-      <td>Platform video conference berbasis browser ala Google Meet, 100% berjalan di Cloudflare Edge dengan LiveKit SFU & Durable Objects.</td>
-      <td><a href="https://huddle.abdmanan513.workers.dev"><b>Live Demo →</b></a> | <a href="https://github.com/Manan-byte/Meeting-Huddle">Repo</a></td>
-    </tr>
-    <tr>
-      <td><b>🤖 bot-suiflex</b></td>
-      <td>Discord cloud bot 24/7 dengan Auto-Role, Moderasi, Audit Logging, dan High-Quality Diva Audio Engine.</td>
-      <td><a href="https://github.com/Manan-byte/bot-suiflex"><b>Repo & Panduan →</b></a></td>
-    </tr>
-    <tr>
-      <td><b>⚡ Tangguh EV</b></td>
-      <td>Portal dan landing page modern pelopor motor trail listrik serta konversi kendaraan ramah lingkungan di Indonesia.</td>
-      <td><a href="https://github.com/Manan-byte/Tangguh_01"><b>Lihat Repo →</b></a></td>
-    </tr>
-    <tr>
-      <td><b>💍 Undangan Digital</b></td>
-      <td>Website undangan pernikahan responsif interaktif dengan countdown waktu, peta lokasi, dan konfirmasi RSVP digital.</td>
-      <td><a href="https://irma-manan.netlify.app/"><b>Lihat Undangan →</b></a></td>
-    </tr>
-  </tbody>
-</table>
+| Project | Description & Core Highlights | Direct Links |
+|---|---|---|
+| **🌐 Portfolio Website** | Interactive personal portfolio built with React, Cloudflare Pages Functions, and Cloudflare D1. | [Live Site →](https://portfolio-abdul-manan.pages.dev/) |
+| **🧪 Suitest Platform** | Self-hostable, MCP-native automated testing platform with deterministic workflows and AI verification. | [suiflex.dev →](https://suitest.suiflex.dev/) • [Repository](https://github.com/Manan-byte/suitest) |
+| **📹 Meeting-Huddle** | Next-generation browser-based video meeting platform powered 100% on Cloudflare Edge with LiveKit SFU. | [Live Demo →](https://huddle.abdmanan513.workers.dev) • [Repository](https://github.com/Manan-byte/Meeting-Huddle) |
+| **🤖 bot-suiflex** | 24/7 Discord cloud bot featuring Auto-Role, Moderation, Audit Logging, and a high-fidelity Diva Audio Engine. | [Repository & Guide →](https://github.com/Manan-byte/bot-suiflex) |
+| **⚡ Tangguh EV** | Modern digital portal and landing page for electric trail motorcycles and EV conversion in Indonesia. | [Repository →](https://github.com/Manan-byte/Tangguh_01) |
+| **💍 Digital Invitation** | Responsive digital wedding invitation platform featuring countdown timers, venue mapping, and live RSVP. | [Live Preview →](https://irma-manan.netlify.app/) |
 
 ---
 
-### 📊 GitHub Analytics & Aktivitas
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Manan-byte">
-          <img src="https://github-readme-stats.vercel.app/api?username=Manan-byte&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" height="185" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Manan-byte">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan-byte&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=7" height="185" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <p align="center" style="margin-top: 10px;">
+  <p align="center">
     <a href="https://github.com/Manan-byte">
-      <img src="https://streak-stats.demolab.com?user=Manan-byte&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Manan-byte&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0&hide_rank=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Manan-byte">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan-byte&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=e2e8f0&langs_count=6" alt="Top Languages" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Manan-byte">
+      <img src="https://streak-stats.demolab.com?user=Manan-byte&theme=transparent&hide_border=true&stroke=38bdf8&ring=818cf8&fire=f43f5e&currStreakNum=38bdf8&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
     </a>
   </p>
 </div>
 
 ---
 
+### 🏆 Profile Achievements
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/Manan-byte?tab=achievements">
+      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" height="95" alt="Pull Shark" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Manan-byte?tab=achievements">
+      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="95" height="95" alt="Quickdraw" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Manan-byte?tab=achievements">
+      <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="95" height="95" alt="YOLO" />
+    </a>
+  </p>
+  <p>
+    <sub>Official achievements unlocked on <strong>@Manan-byte</strong></sub>
+  </p>
+</div>
 
 ---
 
-### 🏆 GitHub Achievements & Lencana Resmi
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="130">
-        <a href="https://github.com/Manan-byte?tab=achievements">
-          <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" height="90" alt="Pull Shark" /><br />
-          <b>Pull Shark</b>
-        </a>
-      </td>
-      <td align="center" width="130">
-        <a href="https://github.com/Manan-byte?tab=achievements">
-          <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" height="90" alt="Quickdraw" /><br />
-          <b>Quickdraw</b>
-        </a>
-      </td>
-      <td align="center" width="130">
-        <a href="https://github.com/Manan-byte?tab=achievements">
-          <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" height="90" alt="YOLO" /><br />
-          <b>YOLO</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-  <p><sub><em>Pencapaian resmi yang telah berhasil dibuka di akun GitHub @Manan-byte</em></sub></p>
-</div>
-
 <div align="center">
   <p>
-    Kunjungi juga: <a href="https://suiflex.dev/"><strong>suiflex.dev</strong></a> &nbsp;|&nbsp; <a href="https://portfolio-abdul-manan.pages.dev/"><strong>portfolio-abdul-manan.pages.dev</strong></a>
+    Connect & Explore: <a href="https://suiflex.dev/"><strong>suiflex.dev</strong></a> &nbsp;|&nbsp; <a href="https://portfolio-abdul-manan.pages.dev/"><strong>portfolio-abdul-manan.pages.dev</strong></a>
   </p>
   <sub><i>“Quality is not an act, it is a habit.”</i></sub>
 </div>
