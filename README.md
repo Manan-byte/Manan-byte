@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://portfolio-abdul-manan.pages.dev/">
-    <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/about-card.svg" width="100%" alt="About Abdul Manan" />
+    <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/about-card.svg?v=2" width="100%" alt="About Abdul Manan" />
   </a>
 </div>
 
@@ -48,7 +48,7 @@
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/tech-stack.svg" width="100%" alt="Tech Stack & Skills" />
+  <img src="https://raw.githubusercontent.com/Manan-byte/Manan-byte/main/assets/tech-stack.svg?v=2" width="100%" alt="Tech Stack & Skills" />
 </div>
 
 ---
